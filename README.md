@@ -1,2 +1,2 @@
 # Test-repo
-I am mucking around on github 
+This is a repo for me practicing the basics of git and github
